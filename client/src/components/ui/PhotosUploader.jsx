@@ -57,7 +57,7 @@ const PhotosUploader = ({ addedPhotos, setAddedPhotos }) => {
           className="rounded-2xl bg-gray-200 px-4"
           onClick={addPhotoByLink}
         >
-          Add&nbsp;photo
+          Add minimum 5 photos
         </button>
       </div>
       <div className="mt-2 grid grid-cols-3 gap-2 md:grid-cols-4 lg:grid-cols-6 ">

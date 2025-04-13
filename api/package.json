@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "22.9.0"
+  },
   "name": "airbnb-api",
   "version": "1.0.0",
   "description": "API for airbnb clone app",
